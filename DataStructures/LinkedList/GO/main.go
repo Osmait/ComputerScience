@@ -6,10 +6,7 @@ import (
 )
 
 func main() {
-	list := newSiglyLinkedList[int]()
-	list.AddAtBeg(1)
-
-	list.AddAtBeg(2)
+	list := newSiglyLinkedList(1, 2, 3, 5)
 	list.Display()
 }
 
@@ -28,8 +25,12 @@ type SinglyLinkedList[T any] struct {
 	length int
 }
 
-func newSiglyLinkedList[T any]() *SinglyLinkedList[T] {
-	return &SinglyLinkedList[T]{}
+func newSiglyLinkedList[T any](values ...T) *SinglyLinkedList[T] {
+	newList := &SinglyLinkedList[T]{}
+	for _, v := range values {
+		newList.AddAtBeg(v)
+	}
+	return newList
 }
 
 func (s *SinglyLinkedList[T]) AddAtBeg(val T) {

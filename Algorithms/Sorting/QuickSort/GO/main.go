@@ -39,7 +39,7 @@ func QuickSort(arr []int) []int {
 
 func main() {
 	reader := bufio.NewReader(os.Stdin)
-	fmt.Print("Enter ")
+	fmt.Print("Enter number separated by a coma: \n")
 	input, _ := reader.ReadString('\n')
 	input = strings.TrimSpace(input)
 	list := strings.Split(input, ",")

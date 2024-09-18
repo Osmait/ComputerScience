@@ -24,8 +24,7 @@ fn main() -> std::io::Result<()> {
     for stream in listener.incoming() {
         match stream {
             Ok(stream) => {
-                let peer_addr = stream.peer_addr().unwrap();
-                println!("Accepted connection from: {}", peer_addr);
+                stream.peer_addr().unwrap();
                 std::thread::spawn(move || handler_client(stream));
             }
             Err(e) => {

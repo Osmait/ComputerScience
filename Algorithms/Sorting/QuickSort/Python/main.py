@@ -1,1 +1,18 @@
-array = [1, 2, 3, 4, 5]
+from random import randrange
+
+
+def quick_sort(collection: list) -> list:
+    if len(collection) < 2:
+        return collection
+    pivot_index = randrange(len(collection))
+    pivot = collection.pop(pivot_index)
+    lesser = [item for item in collection if item <= pivot]
+    greater = [item for item in collection if item > pivot]
+
+    return [*quick_sort(lesser), pivot, *quick_sort(greater)]
+
+
+if __name__ == "__main__":
+    user_input = input("Enter number separated by a coma:\n").strip()
+    unsorted = [int(item) for item in user_input.split(",")]
+    print(quick_sort(unsorted))

@@ -1,7 +1,14 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"os"
+)
 
 func main() {
-	fmt.Println("hello")
+	input, err := os.ReadFile("../input.txt")
+	if err != nil {
+		panic(err)
+	}
+	fmt.Println(string(input))
 }

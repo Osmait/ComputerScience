@@ -7,5 +7,11 @@ public class main {
     byte[] file = Files.readAllBytes(Paths.get("../input.txt"));
     String content = new String(file, "UTF-8");
     System.out.println(content);
+    System.out.println(getNumber());
+
+  }
+
+  public static int getNumber() {
+    return 1;
   }
 }

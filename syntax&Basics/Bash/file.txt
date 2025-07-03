@@ -1,0 +1,68 @@
+total 104
+-rwxr-xr-x@ 1 josesaulburgos  staff  132 Mar  8 15:22 arguments.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  204 Mar  8 14:53 case.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  364 Mar  8 14:46 conditionals.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  167 Mar  8 15:06 continue_break.sh
+-rw-r--r--@ 1 josesaulburgos  staff    0 Mar  8 15:33 error.txt
+-rw-r--r--@ 1 josesaulburgos  staff    0 Mar  8 15:33 file.txt
+-rw-r--r--@ 1 josesaulburgos  staff   19 Mar  8 14:32 hello.txt
+-rw-r--r--@ 1 josesaulburgos  staff   42 Mar  8 15:28 hello2.txt
+-rwxr-xr-x@ 1 josesaulburgos  staff   30 Mar  8 14:32 helloword.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  247 Mar  8 14:49 logical_operator.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  376 Mar  8 15:02 loop.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   84 Mar  8 14:36 output.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   75 Mar  8 14:39 read.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   42 Mar  8 15:33 stderr.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  102 Mar  8 15:28 stdin.sh
+total 112
+-rwxr-xr-x@ 1 josesaulburgos  staff  132 Mar  8 15:22 arguments.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  204 Mar  8 14:53 case.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  364 Mar  8 14:46 conditionals.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  167 Mar  8 15:06 continue_break.sh
+-rw-r--r--@ 1 josesaulburgos  staff    0 Mar  8 15:33 error.txt
+-rw-r--r--@ 1 josesaulburgos  staff  993 Mar  8 15:33 file.txt
+-rw-r--r--@ 1 josesaulburgos  staff   19 Mar  8 14:32 hello.txt
+-rw-r--r--@ 1 josesaulburgos  staff   42 Mar  8 15:28 hello2.txt
+-rwxr-xr-x@ 1 josesaulburgos  staff   30 Mar  8 14:32 helloword.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  247 Mar  8 14:49 logical_operator.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  376 Mar  8 15:02 loop.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   84 Mar  8 14:36 output.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   75 Mar  8 14:39 read.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   44 Mar  8 15:34 stderr.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff  102 Mar  8 15:28 stdin.sh
+inicio del script
+total 120
+-rwxr-xr-x@ 1 josesaulburgos  staff   132 Mar  8 15:22 arguments.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   204 Mar  8 14:53 case.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   364 Mar  8 14:46 conditionals.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   167 Mar  8 15:06 continue_break.sh
+-rw-r--r--@ 1 josesaulburgos  staff    37 Mar  8 15:34 error.txt
+-rw-r--r--@ 1 josesaulburgos  staff  2004 Mar  8 15:36 file.txt
+-rw-r--r--@ 1 josesaulburgos  staff    19 Mar  8 14:32 hello.txt
+-rw-r--r--@ 1 josesaulburgos  staff    42 Mar  8 15:28 hello2.txt
+-rwxr-xr-x@ 1 josesaulburgos  staff    30 Mar  8 14:32 helloword.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   247 Mar  8 14:49 logical_operator.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   376 Mar  8 15:02 loop.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff    84 Mar  8 14:36 output.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff    75 Mar  8 14:39 read.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   113 Mar  8 15:36 stderr.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   102 Mar  8 15:28 stdin.sh
+fin del script
+inicio del script
+total 120
+-rwxr-xr-x@ 1 josesaulburgos  staff   132 Mar  8 15:22 arguments.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   204 Mar  8 14:53 case.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   364 Mar  8 14:46 conditionals.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   167 Mar  8 15:06 continue_break.sh
+-rw-r--r--@ 1 josesaulburgos  staff    37 Mar  8 15:34 error.txt
+-rw-r--r--@ 1 josesaulburgos  staff  3045 Mar  8 15:40 file.txt
+-rw-r--r--@ 1 josesaulburgos  staff    19 Mar  8 14:32 hello.txt
+-rw-r--r--@ 1 josesaulburgos  staff    42 Mar  8 15:28 hello2.txt
+-rwxr-xr-x@ 1 josesaulburgos  staff    30 Mar  8 14:32 helloword.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   247 Mar  8 14:49 logical_operator.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   376 Mar  8 15:02 loop.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff    84 Mar  8 14:36 output.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff    75 Mar  8 14:39 read.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   132 Mar  8 15:40 stderr.sh
+-rwxr-xr-x@ 1 josesaulburgos  staff   102 Mar  8 15:28 stdin.sh
+fin del script
